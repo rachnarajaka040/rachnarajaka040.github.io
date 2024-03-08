@@ -20,7 +20,7 @@ const Statistics = () => {
       />
       <StatsCard
         statcolor="white"
-        stat="53+"
+        stat="155+"
         description="GitHub Commits"
       />
       <StatsCard

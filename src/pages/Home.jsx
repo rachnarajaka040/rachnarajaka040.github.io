@@ -15,7 +15,7 @@ import ProjectHeading from '../components/ProjectHeading';
 import ContactsHeading from '../components/ContactsHeading';
 import SkillsHeading from '../components/SkillsHeading';
 import KnowMore from '../components/KnowMore';
-import GithubCalendar from '../components/GitHubCalendar';
+
 import StatsTitle from '../components/StatsTitle';
 import GitHubStats from '../components/GitHubStats';
 import Statistics from '../components/Statistics';
@@ -38,7 +38,7 @@ const Home = () => {
         <Projects/>
         <StatsTitle/>
         <Statistics/>
-        <GithubCalendar name="fahisayub"  />
+        
         <GitHubStats/>
         <HowToConnect/>
         <ContactsHeading/>

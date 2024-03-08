@@ -11,8 +11,8 @@ const SummaryAboutme = () => {
     id='About'
       transform="rotate(45deg)"
       borderRadius="2em"
-      height={['240px',"350px"]}
-      width={['240px',"350px"]}
+      height={['280px',"450px"]}
+      width={['280px',"450px"]}
       bg="#A75D5D"
       color="white"
       p="0px"
@@ -22,8 +22,8 @@ const SummaryAboutme = () => {
     >
       <Container
         transform="rotate(-45deg)"
-        height={['240px',"350px"]}
-        width={['240px',"350px"]}
+        height={['280px',"450px"]}
+        width={['280px',"450px"]}
         py={['.8em','2.5em']}
       >
         
@@ -33,8 +33,7 @@ const SummaryAboutme = () => {
         <Divider w={['100px','200px']} m='auto' my={['5px','10px']} borderColor="brand_secondary" />
 
         <Text fontSize={['xs',"md"]} margin="auto">
-        An inspired team palyer,always curious about new
-        problems and learning new things in order to deliver out of the box solution with complete ownership.
+        Hello! I'm Rachna Rajak , a passionate Full Stack Web Developer with a Bachelor's degree in Computer Science . Utilizing cutting-edge technologies to build amazing products and focusing on solving problems. With 9 months of hands-on experience as a Frontend Developer, I've actively contributed to projects, honing my skills in Html, Css , JavaScript, React.js , Next.js etc. Look forward to bringing innovation and expertise to your team or project.
         </Text>
         <Box
         fontSize={['md',"25px"]}
