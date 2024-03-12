@@ -6,7 +6,7 @@ const ResumeButton = () => {
 
   const onClickhandler = () => {
     return window.open(
-      "https://drive.google.com/file/d/1WXFzzXPfrCxBK-QLQkhYPOT8TJInZXo9/view?usp=share_link",
+      "https://drive.google.com/file/d/1GC-_XMB-dVMELT5c_zvibjQ0XbLR0kVO/view?usp=drive_link",
       "_blank"
     );
   };
