@@ -1,7 +1,6 @@
 {
   "name": "rachna-portfolio",
   "version": "0.1.0",
-  "homepage": "http://rachnarajaka040.github.io/rachnarajaka040.github.io",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.2",
