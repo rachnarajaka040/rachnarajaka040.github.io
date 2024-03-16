@@ -20,7 +20,7 @@ const ResumeButton = () => {
         bg="#A75D5D"
         color="white"
         p="0px"
-        mt={['0px','-10px']}
+        mt={['-200px','-300px']}
         ml={['10px','50px','100px','200px','200px']}
         _hover={{boxShadow:'5px 5px 20px #79d392'}}
 

@@ -13,8 +13,8 @@ const MyImageCard = () => {
     bg="#A75D5D"
     color="white"
     padding='0px'
-    mt={['3em','3em','0em','0em','0em']}
-    mr={['1em','5em','10em','15em','20em']}
+    mt={['10em','10em','-0em','-0em','-0em']}
+    mr={['10em','15em','15em','20em','5em']}
     _hover={{boxShadow:'5px 5px 20px #79d392'}}    
     >
         <Container transform= 'rotate(-45deg)'

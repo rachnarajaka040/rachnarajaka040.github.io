@@ -13,7 +13,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      livelink: "https://sastazostel.vercel.app/",
+      livelink: "https://zostelreactclone.vercel.app/",
       github: "https://github.com/rachnarajaka040/Zostel.com_clone",
       techStack: [  {id:1,skill:'React',img:<SiReact size='20px' color='skyblue' />},
       {id:2,skill:'Redux',img:<SiRedux size='20px' color='darkblue' />},

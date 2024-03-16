@@ -15,7 +15,7 @@ const KnowMore = () => {
           bg="#A75D5D"
         p='0px'
         mr={['10px','50px','100px','200px','200px']}
-        mt={['-60px','-100px']}
+        mt={['10px','250px']}
         
       >
         <Container
