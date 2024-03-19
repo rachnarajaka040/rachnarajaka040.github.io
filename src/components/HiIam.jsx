@@ -5,42 +5,31 @@ import Hi from "../hi.png";
 const HiIam = () => {
   return (
     <Container
-      id="Home"
+    id='Home'
       transform="rotate(45deg)"
       borderRadius="2em"
-      height={["50px", "200px", "200px"]}
-      width={["150px", "200px", "200px"]}
+      height={["180px","250px",'250px']}
+      width={["180px","250px",'250px']}
       bg="#A75D5D"
       color="white"
-      p="0px"
-      ml={["10em", "22em", "15em", "5em", "33em"]}
-      _hover={{ boxShadow: "5px 5px 20px #79d392" }}
+      p="30px"
+      ml={['1em','2em','5em','15em','20em']}
+      _hover={{boxShadow:'5px 5px 20px #79d392'}}
     >
       <Container
         transform="rotate(-45deg)"
-        height={["100px", "250px", "250px"]}
-        width={["100px", "250px", "250px"]}
+        height={["180px","250px",'250px']}
+        width={["180px","250px",'250px']}
       >
-        <Text
-          fontSize={[".9em", "1.2em", ""]}
-          textAlign="center"
-          fontWeight="semibold"
-        >
+       
+        <Text fontSize={['.9em',"1.2em",'']} textAlign="center" fontWeight="semibold">
           Hi, I'm
         </Text>
-        <Text
-          fontSize={["1.2em", "1.8em", ""]}
-          textAlign="center"
-          fontWeight="bold"
-        >
+        <Text fontSize={['1.2em',"1.8em",'']} textAlign="center" fontWeight="bold">
           Rachna Rajak
         </Text>
 
-        <Text
-          fontSize={["xs", "lg", ""]}
-          margin="auto"
-          mt={["10px", "20px", ""]}
-        >
+        <Text fontSize={['xs','lg','']} margin="auto" mt={['10px','20px','']}>
           Full Stack Web Developer
         </Text>
       </Container>

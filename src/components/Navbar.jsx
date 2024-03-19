@@ -80,7 +80,7 @@ const Navbar = () => {
               m="auto"
               cursor="pointer"
               w="100px"
-              _hover={{ bg: "lightGreen", borderRadius: "10px" }}
+              _hover={{ bg: "#D3756B", borderRadius: "10px" }}
             >
               {navlink}
             </Link>

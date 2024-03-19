@@ -6,7 +6,7 @@ const ResumeButton = () => {
 
   const onClickhandler = () => {
     return window.open(
-      "https://drive.google.com/file/d/1GC-_XMB-dVMELT5c_zvibjQ0XbLR0kVO/view?usp=drive_link",
+      "https://drive.google.com/file/d/1WXFzzXPfrCxBK-QLQkhYPOT8TJInZXo9/view?usp=share_link",
       "_blank"
     );
   };
@@ -20,7 +20,7 @@ const ResumeButton = () => {
         bg="#A75D5D"
         color="white"
         p="0px"
-        mt={['-200px','-300px']}
+        mt={['0px','-10px']}
         ml={['10px','50px','100px','200px','200px']}
         _hover={{boxShadow:'5px 5px 20px #79d392'}}
 

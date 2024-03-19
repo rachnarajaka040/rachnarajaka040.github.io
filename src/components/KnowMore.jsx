@@ -1,5 +1,3 @@
-
-
 import { ArrowBackIcon } from "@chakra-ui/icons";
 import { Container, Text } from "@chakra-ui/react";
 import React from "react";
@@ -15,7 +13,7 @@ const KnowMore = () => {
           bg="#A75D5D"
         p='0px'
         mr={['10px','50px','100px','200px','200px']}
-        mt={['10px','250px']}
+        mt={['-60px','-100px']}
         
       >
         <Container
