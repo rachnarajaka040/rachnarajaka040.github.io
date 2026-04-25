@@ -3,7 +3,6 @@ import React from "react";
 import { IoLocation } from "react-icons/io5";
 import { MdPhone, MdEmail } from "react-icons/md";
 import SocialButtons from "./SocialButtons";
-
 const FooterContact = () => {
   return (
     <Container
