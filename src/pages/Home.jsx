@@ -20,8 +20,7 @@ import StatsTitle from '../components/StatsTitle';
 import GitHubStats from '../components/GitHubStats';
 import Statistics from '../components/Statistics';
 const Home = () => {
-   
-    return (
+   return (
         <Container maxW={['100%', '100%','100%','100%','100%']}   margin='auto' marginBottom='100px'  pt='150px' >
       {/* <Intro/> */}
       <HiIam/>
