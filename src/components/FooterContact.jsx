@@ -5,6 +5,7 @@ import { MdPhone, MdEmail } from "react-icons/md";
 import SocialButtons from "./SocialButtons";
 const FooterContact = () => {
   return (
+    
     <Container
       transform="rotate(45deg)"
       borderRadius="2em"
